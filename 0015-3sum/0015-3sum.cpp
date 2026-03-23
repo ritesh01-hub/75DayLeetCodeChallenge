@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        // using two pointers
        int n = nums.size();
        vector<vector<int>> ans;
        sort(nums.begin(),nums.end());
