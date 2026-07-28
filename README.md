@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
