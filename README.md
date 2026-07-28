@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [2596-check-knight-tour-configuration](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2596-check-knight-tour-configuration) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Trie
 |  |
 | ------- |
