@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -635,4 +638,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
