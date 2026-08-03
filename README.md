@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -639,4 +642,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
