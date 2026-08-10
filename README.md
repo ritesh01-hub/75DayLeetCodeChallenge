@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -665,12 +667,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
