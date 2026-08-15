@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int longestSubsequence(vector<int>& nums) {
+        int n= nums.size();
+
+        int res = 0;
+        bool allZero = true;
+
+        for(int &x : nums){
+            res = res^x;
+
+            if(x != 0){
+                allZero = false;
+            }
+        }
+        if(allZero){
+            return 0;
+        }
+
+        return (res == 0) ? n-1: n;
+    }
+};
