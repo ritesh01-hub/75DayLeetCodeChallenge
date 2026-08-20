@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2596-check-knight-tour-configuration) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
